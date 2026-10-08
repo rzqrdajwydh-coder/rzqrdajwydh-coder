@@ -1,46 +1,63 @@
-<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Phani+%F0%9F%A5%B7;SDET+%26+FullStack+Developer" />
+</h1>
 
-# 👋 Hi there! I'm Rizk Reda Gouda
+<img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 
-**Embedded & Full-Stack Developer | Java • C/C++ • Frontend**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_phanison)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/c/phanison)
 
-</div>
+---
 
-<br />
+#### 👦 ABOUT ME
 
-* 💻 Java, C/C++ Developer & Frontend Web Developer
-* 🔧 Built a **Raspberry Pi** project (hardware + software integration)
-* 📊 Experienced with **Microsoft Word & Excel** for documentation and data handling
-* 🌱 Currently learning: **Spring Boot**, **REST APIs**, and **Databases**
-* 🚀 Looking for opportunities to build real-world, market-ready software
-* 📫 Open to collaboration and freelance work
+I'm **Phanison** aka `Phani Kumar`. I'm a full time **Software Developer in Test** and freelance **Full Stack Developer** based in Hyderabad, INDIA.
 
-<div align="center">
+---
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/YOUR-USERNAME)
-[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YOUR-USERNAME)
-[<img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:YOUR-EMAIL@gmail.com)
-
-</div>
-
-## 🛠️ Tech Stack
-
+#### ⚔ SKILLS & TOOLS:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,raspberrypi,mysql,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,gherkin,jenkins,git,github,docker,kubernetes,aws,terraform,postman,mysql,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,mongodb,express,react,nextjs,nodejs,tailwindcss,mui" />
 </p>
 
-## 📂 Featured Projects
+---
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **Raspberry Pi Project** | اكتب هنا وصف مختصر للمشروع | Python/C++, Raspberry Pi | [GitHub](https://github.com/YOUR-USERNAME/REPO) |
-| **Word & Excel Project** | اكتب هنا وصف المشروع | Word, Excel | [Link](#) |
-| **Project 3** | وصف المشروع | Java | [GitHub](#) |
+#### ✅ SOME OF MY PROJECTS:
 
-## 📊 GitHub Stats
+<p style="display:flex">
+    <a href="https://github.com/phanison898/linked-in-clone">
+        <img width=240 src="https://media.giphy.com/media/PTQn2S6X7XtsPD6j5j/giphy.gif" />
+    </a>
+    <a href="https://github.com/phanison898/facebook-clone">
+        <img width=240 src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
+    </a>
 
-<div align="center">
+</p>
 
-![Rizk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+---
 
-</div>
+<h4> 💻 Code <=> Music 🎧: <img width="11px" src="./assets/red-dot.gif" /></h4>
+
+![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
+
+---
+#### 📈 TOP MOST PROJECTS
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=provisioning-test-automation-env&theme=dark)](https://github.com/phanison898/provisioning-test-automation-env)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=selenium-tdd-framework&theme=dark)](https://github.com/phanison898/selenium-tdd-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=appium-automation&theme=dark)](https://github.com/phanison898/appium-automation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=java-bdd-automation-framework&theme=dark)](https://github.com/phanison898/java-bdd-automation-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=api-automation-with-rest-assured&theme=dark)](https://github.com/phanison898/api-automation-with-rest-assured)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=facebook-clone&theme=dark)](https://github.com/phanison898/facebook-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=linked-in-clone&theme=dark)](https://github.com/phanison898/linked-in-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=instagram-clone&theme=dark)](https://github.com/phanison898/instagram-clone)
+---
+#### 📈 MY GITHUB STATS
+
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898&show_icons=true&theme=radical" />
+

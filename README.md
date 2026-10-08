@@ -1,42 +1,46 @@
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav | https://ngudbhav.com" title="👋 Hi there! I'm Udbhav | https://ngudbhav.com"/>](https://ngudbhav.com/)
+<div align="center">
+
+# 👋 Hi there! I'm Rizk Reda Gouda
+
+**Embedded & Full-Stack Developer | Java • C/C++ • Frontend**
+
+</div>
+
 <br />
 
-* 🎤 Speaker at RubyConf 💎 India 2025. Catch my talk on Puma [here](https://www.rubyevents.org/talks/inside-rails-boot-puma-s-role-in-initialization)
-* 🔭 Currently working as Backend Engineer @[ThoughtSpot](https://www.thoughtspot.com/). Ex-[Scaler](https://www.scaler.com/)
-* 💬 Developer by profession, Tech-Consultant by Reputation
-* ⚡ [Visit](https://ngudbhav.com) to Know More!
+* 💻 Java, C/C++ Developer & Frontend Web Developer
+* 🔧 Built a **Raspberry Pi** project (hardware + software integration)
+* 📊 Experienced with **Microsoft Word & Excel** for documentation and data handling
+* 🌱 Currently learning: **Spring Boot**, **REST APIs**, and **Databases**
+* 🚀 Looking for opportunities to build real-world, market-ready software
+* 📫 Open to collaboration and freelance work
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"/>](https://twitter.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ngudbhav/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/YOUR-USERNAME)
+[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/YOUR-USERNAME)
+[<img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:YOUR-EMAIL@gmail.com)
 
 </div>
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://ngudbhav.com/resume/">
-    <img src="https://skillicons.dev/icons?i=go,java,rails,ruby,dynamodb,elasticsearch,postgres,mysql,redis" />
-    <img src="https://skillicons.dev/icons?i=aws,terraform,vercel,cloudflare,heroku,docker,grafana,jenkins,sentry&perline=9" />
-    <img src="https://skillicons.dev/icons?i=angular,css,cypress,gatsby,js,jest,react,sass,ts&perline=9" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,raspberrypi,mysql,git,github&perline=10" />
 </p>
-<br/>
+
+## 📂 Featured Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **Raspberry Pi Project** | اكتب هنا وصف مختصر للمشروع | Python/C++, Raspberry Pi | [GitHub](https://github.com/YOUR-USERNAME/REPO) |
+| **Word & Excel Project** | اكتب هنا وصف المشروع | Word, Excel | [Link](#) |
+| **Project 3** | وصف المشروع | Java | [GitHub](#) |
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-| Title            | Downloads                                                                                                                                                                            | Checkout                                                            |
-|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| excel-to-mysql   | ![NPM Downloads](https://img.shields.io/npm/d18m/excel-to-mysql)                                                                                                                     | <a href="https://www.npmjs.com/package/excel-to-mysql">NPM</a>      |
-| excel-to-mongodb | ![NPM Downloads](https://img.shields.io/npm/d18m/excel-to-mongodb)                                                                                                                   | <a href="https://www.npmjs.com/package/excel-to-mongodb">NPM</a>    |
-| LazyType         | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ngudbhav/lazyType/total)](https://github.com/ngudbhav/lazyType/releases)                     | <a href="https://github.com/ngudbhav/lazyType">Github</a>           |
-| Trico            | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ngudbhav/TriCo-electron-app/total)](https://github.com/ngudbhav/TriCo-electron-app/releases) | <a href="https://github.com/ngudbhav/TriCo-electron-app">Github</a> |
+![Rizk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
 
-</div>
-<br/>
-<div align="center">
-
-[![Udbhav Medium](https://github-readme-medium.vercel.app/?username=ngudbhav&limit=1)](https://blog.ngudbhav.com/)
-![NGUdbhav's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
-  
 </div>

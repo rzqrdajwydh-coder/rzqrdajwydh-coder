@@ -1,29 +1,44 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Phani+%F0%9F%A5%B7;SDET+%26+FullStack+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Rizq+Reda+%F0%9F%92%BB;Java+%26+C/C++Developer;Frontend+%26+Embedded+Developer" />
 </h1>
 
 <img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_phanison)
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/c/phanison)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rizq-reda-gawida)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rizqrdajwydh)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/rizqrdajwydh)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rzqrdajwydh@gmail.com)
 
 ---
 
 #### 👦 ABOUT ME
 
-I'm **Phanison** aka `Phani Kumar`. I'm a full time **Software Developer in Test** and freelance **Full Stack Developer** based in Hyderabad, INDIA.
+I'm **Rizq Reda Gawida**. I'm a passionate Software Developer specializing in Java, C/C++, Web Frontend development, and Embedded Systems projects (such as Raspberry Pi), along with professional proficiency in Microsoft Office tools (Word, Excel, PowerPoint). Based in Egypt.
 
 ---
 
 #### ⚔ SKILLS & TOOLS:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,selenium,maven,gherkin,jenkins,git,github,docker,kubernetes,aws,terraform,postman,mysql,eclipse" />
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,mongodb,express,react,nextjs,nodejs,tailwindcss,mui" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,ts,react,git,github,raspberrypi,vscode,eclipse" />
 </p>
 
 ---
+
+#### ✅ SOME OF MY PROJECTS:
+
+<p style="display:flex">
+    <a href="https://github.com/rizqrdajwydh">
+        <img width=240 src="https://media.giphy.com/media/PTQn2S6X7XtsPD6j5j/giphy.gif" />
+    </a>
+</p>
+
+---
+
+#### 📈 MY GITHUB STATS
+
+<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=rizqrdajwydh&show_icons=true&theme=radical" />
+
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=rizqrdajwydh&show_icons=true&theme=radical" />
 
 #### ✅ SOME OF MY PROJECTS:
 

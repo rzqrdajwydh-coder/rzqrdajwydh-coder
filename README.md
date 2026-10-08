@@ -1,151 +1,42 @@
-# 👋 Hey, I'm Rizk Reda Gowida!
+[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav | https://ngudbhav.com" title="👋 Hi there! I'm Udbhav | https://ngudbhav.com"/>](https://ngudbhav.com/)
+<br />
 
-<h1>Welcome to my Digital World 💻</h1>
+* 🎤 Speaker at RubyConf 💎 India 2025. Catch my talk on Puma [here](https://www.rubyevents.org/talks/inside-rails-boot-puma-s-role-in-initialization)
+* 🔭 Currently working as Backend Engineer @[ThoughtSpot](https://www.thoughtspot.com/). Ex-[Scaler](https://www.scaler.com/)
+* 💬 Developer by profession, Tech-Consultant by Reputation
+* ⚡ [Visit](https://ngudbhav.com) to Know More!
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<div align="center">
 
-<p>
-I'm a Computer Science / IT student and a passionate programmer who enjoys building projects, learning new technologies, and solving programming problems.
+[<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
+[<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white"/>](https://twitter.com/ngudbhav/)
+[<img src="https://img.shields.io/badge/ngudbhav%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ngudbhav/)
+[<img src="https://img.shields.io/badge/ngudbhav%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ngudbhav/)
+
+</div>
+
+<p align="center">
+  <a href="https://ngudbhav.com/resume/">
+    <img src="https://skillicons.dev/icons?i=go,java,rails,ruby,dynamodb,elasticsearch,postgres,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,vercel,cloudflare,heroku,docker,grafana,jenkins,sentry&perline=9" />
+    <img src="https://skillicons.dev/icons?i=angular,css,cypress,gatsby,js,jest,react,sass,ts&perline=9" />
+  </a>
 </p>
+<br/>
+<div align="center">
 
----
+| Title            | Downloads                                                                                                                                                                            | Checkout                                                            |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| excel-to-mysql   | ![NPM Downloads](https://img.shields.io/npm/d18m/excel-to-mysql)                                                                                                                     | <a href="https://www.npmjs.com/package/excel-to-mysql">NPM</a>      |
+| excel-to-mongodb | ![NPM Downloads](https://img.shields.io/npm/d18m/excel-to-mongodb)                                                                                                                   | <a href="https://www.npmjs.com/package/excel-to-mongodb">NPM</a>    |
+| LazyType         | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ngudbhav/lazyType/total)](https://github.com/ngudbhav/lazyType/releases)                     | <a href="https://github.com/ngudbhav/lazyType">Github</a>           |
+| Trico            | [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ngudbhav/TriCo-electron-app/total)](https://github.com/ngudbhav/TriCo-electron-app/releases) | <a href="https://github.com/ngudbhav/TriCo-electron-app">Github</a> |
 
-## 👨‍💻 About Me
+</div>
+<br/>
+<div align="center">
 
-* 🎓 IT Student
-* ☕ Java Developer
-* ⚙️ C / C++ Programmer
-* 🌐 Frontend Web Developer
-* 🍓 Raspberry Pi & Embedded Projects
-* 💻 Working with VS Code
-* 🔧 Interested in software development and practical projects
-* 🚀 Always learning and improving my programming skills
-
----
-
-## 🛠️ Technologies I Use
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
-
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Frontend Web Development
-
-### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45"/>
-</p>
-
----
-
-## 🍓 Raspberry Pi Projects
-
-I have worked on projects using **Raspberry Pi**, including working with hardware, Python-based software, cameras, SSH, and connecting different components.
-
-🔧 **Project:** AI-based Pipe Inspection System
-
-The project aims to help detect defects and cracks in industrial pipes using:
-
-* Raspberry Pi
-* Camera
-* AI / Computer Vision
-* Motors
-* Encoder
-* Ultrasonic Sensor
-* Python
-* SSH
-
----
-
-## ☕ Who Am I?
-
-```java
-public class RizkReda {
-
-    String name = "Rizk Reda Gowida";
-
-    String[] skills = {
-        "Java",
-        "C",
-        "C++",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "Raspberry Pi"
-    };
-
-    String[] interests = {
-        "Software Development",
-        "Web Development",
-        "Programming",
-        "Embedded Systems",
-        "Learning New Technologies"
-    };
-
-    public void ambition() {
-        System.out.println("Become a professional software developer 🚀");
-    }
-}
-```
-
----
-
-## 🚀 Current Goals
-
-* 📚 Improve my Java skills
-* 🌐 Become better at Frontend Development
-* ⚙️ Improve my C/C++ programming
-* 🍓 Build more Raspberry Pi projects
-* 🧠 Learn Backend Development
-* 💻 Build real-world applications
-* 🚀 Become a professional developer
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
----
-
-### 💡 Developer Mindset
-
-> **Learn. Build. Break. Fix. Repeat. 🚀**
-
-⭐ Feel free to explore my repositories and projects!
+[![Udbhav Medium](https://github-readme-medium.vercel.app/?username=ngudbhav&limit=1)](https://blog.ngudbhav.com/)
+![NGUdbhav's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
+  
+</div>
